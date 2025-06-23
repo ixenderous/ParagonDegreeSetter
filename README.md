@@ -6,6 +6,6 @@
 ParagonDegreeSetter
 </h1>
 
-Adds a hotkey to set a paragon's degree in sandbox. Tower UI won't update automatically. Fix of https://github.com/GrahamKracker/InstantDegree because that one kinda broke or something idk.
+Adds a hotkey to set a paragon's degree in sandbox. Tower UI won't update automatically so deselect then reselect the tower. Fix of https://github.com/GrahamKracker/InstantDegree because that one kinda broke or something idk.
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
